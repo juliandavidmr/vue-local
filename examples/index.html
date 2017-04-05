@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <title>Welcome to Vue-local</title>
+</head>
+
+<body>
+  <div id="app">    
+    <div v-local:set.message="'I am a message'"></div>
+    <div v-local:set.saldo="'Hola como estas'"></div>
+    <div v-local:get="message"></div>
+    <div v-local:get="saldo"></div>
+  </div>
+  <script src="/dist/vue-local.js"></script>
+</body>
+
+</html>
