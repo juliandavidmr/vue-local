@@ -1,5 +1,7 @@
 # Vue-local
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliandavidmr/vue-local.svg)](https://greenkeeper.io/)
+
 > Manage localstorage from the browser 
 
 _**Beta 1.0**_
